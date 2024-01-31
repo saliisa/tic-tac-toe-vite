@@ -1,5 +1,7 @@
 # [Tic-tac-toe](https://saliisa.github.io/tic-tac-toe-vite/)
 
+<p>Tic-tac-toe tutorial by https://react.dev/learn/tutorial-tic-tac-toe</p>
+
 
 # React + Vite
 
